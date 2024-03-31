@@ -497,3 +497,4 @@
 {"error":"{\"Error_GUID\":\"8621728425062737536\",\"Error\":\"Failed all retries {GUID:8621728425062737536,error:rpc error: code = Unknown desc = unexpected HTTP status code received from server: 500 (Internal Server Error); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"2948946952263215137\",\"Error\":\"Failed all retries {GUID:2948946952263215137,error:No pairings available.,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x58b096902"}
+{"jsonrpc":"2.0","id":1,"result":"0x55ba8d340"}
